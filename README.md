@@ -17,6 +17,6 @@ Este repositorio explica algunas implementaciones criptográficas clásicas con 
 
  * [FIEL to RSA](https://github.com/mevangelista-alvarado/crypto_applications/blob/main/FielToRSA.ipynb)
 
-   Implementación para leer un archivo (.cer) de la FIEL (México) y convertirlo a un objeto RSA.
+   Implementación para leer un archivo `(.cer)` de la FIEL (México) y convertirlo a un objeto `RSA`.
 
    Implemenetación para verificar que una firma correcponde a una FIEL (México).
